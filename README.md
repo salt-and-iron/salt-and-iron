@@ -1,1 +1,3 @@
-# salt-and-iron-hugo
+# Salt & Iron
+
+Salt and Iron is a low fantasy worldbuilding project.
