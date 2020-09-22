@@ -1,5 +1,5 @@
 baseURL = "https://salt-and-iron.github.io/"
-title = "Goldydocs"
+title = "Salt and Iron"
 
 enableRobotsTXT = true
 
@@ -53,16 +53,17 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.en]
-title = "Goldydocs"
-description = "A Docsy example site"
+title = "Salt and Iron"
+description = "A low-fantasy worldbuilding project"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
-[languages.no]
-title = "Goldydocs"
-description = "Docsy er operativsystem for skyen"
-languageName ="Norsk"
-contentDir = "content/no"
+
+# [languages.no]
+# title = "Goldydocs"
+# description = "Docsy er operativsystem for skyen"
+# languageName ="Norsk"
+# contentDir = "content/no"
 time_format_default = "02.01.2006"
 time_format_blog = "02.01.2006"
 
@@ -79,7 +80,7 @@ time_format_blog = "02.01.2006"
 # Everything below this are Site Params
 
 [params]
-copyright = "The Docsy Authors"
+copyright = "Phoenix"
 privacy_policy = "https://policies.google.com/privacy"
 
 # First one is picked as the Twitter card image if not set on page.
